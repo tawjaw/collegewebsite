@@ -19,6 +19,10 @@ export default defineUserConfig({
               text: 'Lab 3',
               link: '/lab3/'
             },
+            {
+              text: 'Lab 4',
+              link: '/lab4/'
+            },
           ],
         },{
         text: 'References',
