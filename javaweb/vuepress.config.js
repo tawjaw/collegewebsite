@@ -15,6 +15,10 @@ export default defineUserConfig({
               text: 'Lab 2',
               link: '/lab2/'
             },
+            {
+              text: 'Lab 3',
+              link: '/lab3/'
+            },
           ],
         },{
         text: 'References',
@@ -27,6 +31,14 @@ export default defineUserConfig({
             {
                 text: 'Three Dots',
                 link: '/references/threedots.html'
+              },
+              {
+                text: 'Conditional Rendering',
+                link: '/references/conditional.html'
+              },
+              {
+                text: 'useEffect',
+                link: 'https://dmitripavlutin.com/react-useeffect-explanation/'
               },
           ],
       },
